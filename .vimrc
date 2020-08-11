@@ -76,11 +76,6 @@ set wildmode=full
 set errorfile=.err
 syntax on
 
-
-let g:netrw_liststyle=3
-let g:netrw_winsize=25
-
-
 colorscheme base16-tomorrow-night
 
 " }}}
